@@ -59,11 +59,10 @@ The goal is to identify best-selling products, low-performing ones, and provide 
 ## 📌 Conclusion
 The analysis provides clear visibility into product and regional performance.  
 By applying the given recommendations, sales can be optimized and resources allocated more effectively.
+![Dashboard Visualization](Dashboard.jpg)
+
 ```
 
 
 
-## Live Dashboard 🌐
-📊 [Download Power BI Dashboard (.pbix)](تحليل%20بيانات%20مبيعات.pbix)  
 
-![Dashboard Visualization](Dashboard.jpg)
