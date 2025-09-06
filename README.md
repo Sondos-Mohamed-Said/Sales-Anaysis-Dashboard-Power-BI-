@@ -64,8 +64,7 @@ The dataset includes:
 ## Live Dashboard 🌐
 📊 [Download Power BI Dashboard (.pbix)](تحليل%20بيانات%20مبيعات.pbix)  
 
-🖼️ [View Dashboard Screenshot]([تحليل بيانات مبيعات.jpg](https://github.com/Sondos-Mohamed-Said/Sales-Anaysis-Dashboard-Power-BI-/blob/main/%D8%AA%D8%AD%D9%84%D9%8A%D9%84%20%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%20%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA%20.jpg))
-
+🖼️ [View Dashboard Screenshot](تحليل بيانات مبيعات.jpg)
 ---
 
 تحبي أعملهولك نسخة بالعربي كمان عشان يبقى عندك اختيارين (عربي + إنجليزي) ولا تخليه إنجليزي بس زي معظم الـ GitHub Repos؟
