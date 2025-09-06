@@ -64,4 +64,4 @@ The dataset includes:
 ## Live Dashboard 🌐
 📊 [Download Power BI Dashboard (.pbix)](تحليل%20بيانات%20مبيعات.pbix)  
 
-![Dashboard Visualization](تحليل بيانات مبيعات.jpg)
+![Dashboard Visualization](تحليل بيانات مبيعات .jpg)
