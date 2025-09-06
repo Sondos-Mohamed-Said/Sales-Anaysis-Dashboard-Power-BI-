@@ -61,5 +61,3 @@ The analysis provides clear visibility into product and regional performance.
 By applying the given recommendations, sales can be optimized and resources allocated more effectively.
 
 ![Dashboard Visualization](Dashboard.jpg)
-
-```
